@@ -1,0 +1,23 @@
+#sobre-mi{
+    display: flex;
+    background: #1d2c52;
+    padding: 15px 0px 0px 10px;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+.programador{
+    width: 100px;
+    height: 150px;
+}
+
+.about__title{
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.about__paragraph{
+    margin-bottom: 10px;
+}

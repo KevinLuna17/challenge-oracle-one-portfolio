@@ -1,0 +1,28 @@
+.skills{
+    margin-top: 20px;
+}
+
+.skills__line{
+    display: flex;
+    justify-content: space-around;
+}
+
+.skills__box ul {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.skills__box img {
+    height: 35px;
+    width: 30px;
+    margin-bottom: 5px;
+}
+
+.skills__box ul:hover{
+    transform: scale(1.2);
+}
+
+
